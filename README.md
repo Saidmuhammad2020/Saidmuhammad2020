@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saidmuhammad2020
+- 👋 Hi, I’m @Sam
 - 👀 I’m interested in ML 
 - 🌱 I’m currently learning Data Analysis
 <!---
